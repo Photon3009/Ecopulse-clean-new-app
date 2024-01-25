@@ -1,4 +1,4 @@
-# Clean Architecture News App
+# Ecopulse Clean News App
 
 <img src="https://github.com/Photon3009/Clean-Architecture-News-App/assets/100941430/9dc8308e-f140-451d-b763-1e0cf14ffcdd" width="200" height="350" alt="Screenshot_1705922205">
 
